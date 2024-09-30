@@ -10,7 +10,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Fall 2024</b></summary>
 
   ###
-
+  * October 8: [Writing Effective Prompts for Coding With LLMs](https://github.com/nuitrcs/promptEngineering)
 
 </details>
 
