@@ -23,6 +23,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   ###
   * January 21: [GitHub Copilot for Coding Productivity](https://github.com/nuitrcs/github_copilot_workshop)
       * Recording [here](https://northwestern.zoom.us/rec/share/ORh2E52tIGrTlr8j1rHM824G6hnroFKSYRXg1xG1tu6QvrgbROg1CxjmtA0utWgK.N4caotVwxVA_r5rs)
+  * February 11: [Extract Information From Text With LLMs](https://github.com/nuitrcs/info_extraction_llm_workshop)
 
 </details>
 
