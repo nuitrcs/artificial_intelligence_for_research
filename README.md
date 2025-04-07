@@ -17,7 +17,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Winter 2025</b></summary>
 
   ###
@@ -25,6 +25,15 @@ Click on the workshops below to navigate to the linked GitHub repository.
       * Recording [here](https://northwestern.zoom.us/rec/share/ORh2E52tIGrTlr8j1rHM824G6hnroFKSYRXg1xG1tu6QvrgbROg1CxjmtA0utWgK.N4caotVwxVA_r5rs)
   * February 11: [Extract Information From Text With LLMs](https://github.com/nuitrcs/info_extraction_llm_workshop)
       * Recording [here](https://northwestern.zoom.us/rec/share/e8s9MDJws348ZRhq_XSu7LsmznbVqVjcYw5eKCYEpVewG2JZXaKVTiHsAZidkIw_.8dhIZjolQJfOM1tW)
+
+</details>
+
+<details open>
+  <summary><b>Spring 2025</b></summary>
+
+  ###
+  * April 15: [Why and How to Use LLMs in your Research](https://github.com/nuitrcs/CoDEx-Choose-Your-LLM)
+      * Recording not available
 
 </details>
 
