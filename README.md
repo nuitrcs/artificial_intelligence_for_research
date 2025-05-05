@@ -35,6 +35,8 @@ Click on the workshops below to navigate to the linked GitHub repository.
   * April 15: [Why and How to Use LLMs in your Research](https://github.com/nuitrcs/CoDEx-Choose-Your-LLM)
       * Recording not available
 
+  * May 5: [Image Analysis with OpenCV](https://github.com/nuitrcs/opencv_image_analysis)
+
 </details>
 
 # Zoom Recordings
