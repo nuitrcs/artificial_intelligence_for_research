@@ -28,7 +28,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Spring 2025</b></summary>
 
   ###
@@ -36,6 +36,20 @@ Click on the workshops below to navigate to the linked GitHub repository.
       * Recording not available
 
   * May 5: [Image Analysis with OpenCV](https://github.com/nuitrcs/opencv_image_analysis)
+      * Recording not available
+
+</details>
+
+<details open>
+  <summary><b>Summer 2025</b></summary>
+
+  ###
+  * September 2: [Topic Modeling to Categorize Text Documents](https://github.com/nuitrcs/AI_Week_Topic_Modeling)
+      * Recording not available
+  * September 3: [Fine-Tuning LLMs for Text Classification](https://github.com/nuitrcs/fine_tuning_workshop)
+      * Recording not available
+  * September 4: [Enhancing LLM Systems with RAG](https://github.com/nuitrcs/AI_Week_RAG)
+      * Recording not available
 
 </details>
 
