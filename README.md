@@ -40,7 +40,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Summer 2025</b></summary>
 
   ###
@@ -50,6 +50,14 @@ Click on the workshops below to navigate to the linked GitHub repository.
       * Recording not available
   * September 4: [Enhancing LLM Systems with RAG](https://github.com/nuitrcs/AI_Week_RAG)
       * Recording not available
+
+</details>
+
+<details open>
+  <summary><b>Fall 2025</b></summary>
+
+  ###
+  * November 11: [Customizing `spaCy's` Entity Recognition Models](https://github.com/nuitrcs/customizing_spacy_ner)
 
 </details>
 
