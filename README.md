@@ -58,6 +58,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
   * November 11: [Customizing `spaCy's` Entity Recognition Models](https://github.com/nuitrcs/customizing_spacy_ner)
+      * Recording [here](https://northwestern.zoom.us/rec/share/qkPjwQwK5G81_I7_vHdiFVi5dw9Hl2QtS2r_VrqzYa_og1mDxhy2krqySKBtyrPm.nhaCSJI1ViFGhxpC)
 
 </details>
 
